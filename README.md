@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ TaskFlow — Team Task Manager
 
 A full-stack team task management app with role-based access control, built with **Node.js + Express + PostgreSQL** (backend) and **React + Vite** (frontend).
@@ -211,3 +212,6 @@ tasks           — id, title, description, project_id, assignee_id,
 
 ## 📝 License
 MIT
+=======
+# team-task-manager
+>>>>>>> ce02707f5c84b80d15a2635b699716d09e0f810b
